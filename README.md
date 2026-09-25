@@ -27,7 +27,7 @@ Playwright comprueba Chromium de escritorio, Android emulado y WebKit con iPhone
 
 ## Publicación y mantenimiento
 
-El flujo de GitHub Actions verifica calidad, dependencias y CodeQL antes de desplegar `dist` en GitHub Pages. En Settings → Pages, la fuente debe ser GitHub Actions. La URL prevista es https://brayton230406.github.io/ejercicio4/.
+El flujo de GitHub Actions verifica calidad, dependencias y CodeQL antes de desplegar `dist` en GitHub Pages. En Settings → Pages, la fuente debe ser GitHub Actions. La URL prevista es https://alexjoelrg27.github.io/ejercicio-4-/.
 
 Los pull requests ejecutan comprobaciones sin desplegar. Dependabot propone actualizaciones semanales y una ejecución programada revisa el proyecto cada lunes. Las acciones están fijadas a commits. La aplicación publicada no incluye dependencias de terceros.
 
